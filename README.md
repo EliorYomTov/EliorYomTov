@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliorYomTov
 - 👀 I’m interested in develop software.
-- 🌱 I’m currently learning learning new technologies.
+- 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on free code.
 - 📫 How to reach me eyomtov81r@gmail.com
 
