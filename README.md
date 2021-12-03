@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EliorYomTov
+- 👋 Hi, I’m @Elior Yom Tov
 - 👀 I’m interested in develop software.
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on free code.
