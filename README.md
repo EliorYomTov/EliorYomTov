@@ -1,6 +1,6 @@
 ### Hi, I'm Elior 👋
 
-Senior Backend Developer building production-grade Java services.
+Backend Developer building production-grade Java services.
 
 - 🔭 **Currently building:** [API Traffic Guard](https://github.com/EliorYomTov/api-traffic-guard) — a real-time API protection layer with rate limiting and brute-force detection. Java 17, Spring Boot, PostgreSQL, Redis.
 - 💼 **Stack:** Java • Spring Boot • PostgreSQL • Redis • REST APIs • Docker • Microservices
